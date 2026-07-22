@@ -1,0 +1,13 @@
+source_family,description
+ACCESS,"Public access and gate-access records with public-use, access type, gate type, and condition fields."
+BLIND,"Hunting or observation blind records with use, public-use, accessibility, regulation, and condition fields."
+BUILDING,"Building point records with public-use, accessibility, condition, and comments."
+FENCE,"Fence records with construction, height, length, condition, and comments."
+GATE,"Gate and cattle-guard records with public-use, type, condition, and comments."
+PARKING,"Parking lot records with route, surface, access, stall, area, rating, and notes fields."
+PROPERTY,"Property point records with property type, public-use, accessibility, condition, and comments."
+ROAD,"Road records with route, surface, access, seasonal, length, and condition/rating fields."
+TRAIL,"Public trail segment records, including route, surface, use, condition, and length fields."
+TRAIL_NOTE,"Trail information table records with public descriptions, difficulty, estimated time, activity, and alert fields."
+WATER_LINE,"Line water-resource inventory records such as berms, canals, ditches, and related condition or threat text."
+WATER_POINT,Point water-resource inventory records such as water-control structures and related condition or threat text.

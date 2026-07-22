@@ -1,0 +1,4 @@
+case_type,intent_summary,family_order_hint,max_scored_evidence_ids
+hydrology_repair_route,Recover the strongest evidence route for water-control risk and access continuity.,WATER_LINE | WATER_POINT | ACCESS | GATE | ROAD | PARKING | FENCE,6
+visitor_access_route,"Recover the strongest evidence route for visitor movement, trails, parking, roads, and public-use support.",TRAIL | TRAIL_NOTE | PARKING | ROAD | ACCESS | BUILDING | BLIND,6
+operations_facility_route,Recover the strongest evidence route for facility/property operations and boundary support.,PROPERTY | BUILDING | GATE | FENCE | ROAD | WATER_LINE | WATER_POINT,6
